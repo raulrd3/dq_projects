@@ -1,1 +1,4 @@
-# dq_projects
+# DataQuest Projects
+
+A catalog of my progress across DataQuest.io's data tracks. 
+
